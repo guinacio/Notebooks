@@ -1,1 +1,9 @@
-
+0x00011020 #no arquivo de instruções cada instrução deve ter 10 caracteres
+0x21280007 #a partir do décimo caractere pode ser usado como
+0x01F18024 #comentário
+0x32CB0002
+0x1002FFFE
+0x16930008
+0x0800000C
+0x8D14FFFF
+0x0C       #inválida 
